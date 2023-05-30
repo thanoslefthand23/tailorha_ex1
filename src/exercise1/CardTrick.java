@@ -61,6 +61,24 @@ public class CardTrick {
     private static void printInfo() {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
+        
+        System.out.println("My name is harsh tailor");
+        System.out.println();
+        
+        System.out.println("My career ambitions:");
+        System.out.println("Get a field job");
+        System.out.println("Buy a house in my hometown for my parents!");
+	     System.out.println();	
+
+        System.out.println("My hobbies:");
+        System.out.println("Hiking");
+        System.out.println("Cooking");
+        System.out.println("Watching sitcoms");
+        System.out.println("Riding my vespa");
+        System.out.println("travelling");
+
+        System.out.println();
+        
         }
 }
 
