@@ -76,6 +76,7 @@ public class CardTrick {
         System.out.println("Watching sitcoms");
         System.out.println("Riding my vespa");
         System.out.println("travelling");
+        System.out.println("eating");
 
         System.out.println();
         
